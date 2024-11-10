@@ -102,7 +102,7 @@ fn print_combined_log(root_dir: &str , user: &str) {
                 formatted_date.truecolor(114, 135, 253), 
                 repo_name.truecolor(254, 100, 11),
                 hash.truecolor(92, 95, 119),    
-                author.truecolor(10, 10, 10),           
+                author.truecolor(150, 150, 150),           
                 message.truecolor(255, 255, 224),
             ).expect("Failed to write to less");    
         }
