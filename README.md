@@ -1,6 +1,8 @@
 # globalgit
 Tool to list all git repos in a directory and show a combined commit log
 
+:warning: only works on Linux
+
 ## Installation
 
 #### rust
@@ -29,5 +31,5 @@ globalgit log <root_directory>
 
 #### show combined log filtered by author
 ```sh
-globalgit log <root_directory> [<author_name>]
+globalgit log <root_directory> [author_name]
 ```
