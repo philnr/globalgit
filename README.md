@@ -16,7 +16,7 @@ Now you can install globalgit using cargo
 cargo install --git https://github.com/Progrogogg/globalgit
 ```
 
-## usage
+## Usage
 #### list repos 
 ```sh
 globalgit repos <root_directory>
