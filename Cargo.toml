@@ -2,6 +2,9 @@
 name = "globalgit"
 version = "0.1.0"
 edition = "2021"
+description = "Tool to list all git repos in a directory and show a combined commit log"
+repository = "https://github.com/Progrogogg/globalgit"
+license = "MIT"
 
 [dependencies]
 walkdir = "2.3.2"
