@@ -15,7 +15,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 #### globalgit
 Now you can install globalgit using cargo
 ```sh
-cargo install --git https://github.com/Progrogogg/globalgit
+cargo install --git https://github.com/philnr/globalgit
 ```
 
 ## Usage
